@@ -33,8 +33,8 @@
 }
 
 .theme-dark {
-    --background-primary: #1f2125;
-    --background-tertiary: #14161a;
+    --background-primary: red;
+    --background-tertiary: #36393e;
     --text-normal: #ffffff;
     --text-muted: #9b9b9b;
     --channels-default: #b8b8b8;
