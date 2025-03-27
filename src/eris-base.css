@@ -34,7 +34,7 @@
 
 .theme-dark {
     --background-primary: red;
-    --background-tertiary: #36393e;
+    --background-tertiary: red;
     --text-normal: #ffffff;
     --text-muted: #9b9b9b;
     --channels-default: #b8b8b8;
