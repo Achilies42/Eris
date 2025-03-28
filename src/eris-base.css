@@ -43,8 +43,8 @@
 .theme-light {
     --background-primary: #f5f5f5;
     --background-tertiary: #cccccc;
-    --channels-default: #1a1a1a;
-    --text-normal: #000000;
+    --channels-default:red;
+    --text-normal: red;
     --text-muted: #6e6e6e;
 }
 
